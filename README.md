@@ -6,10 +6,15 @@ This contract is deployed as official Root Blockchain ICO. Contract address is
 https://etherscan.io/token/0x5bca6ee0a776cc4f40c7221646f6d3daa2bd19d9
 
 Official wesite : https://rootblockchain.io
+
 LinkedIn : https://www.linkedin.com/in/root-blockchain-55a398158/
+
 Twitter : https://twitter.com/RootBlockchain
+
 Facebook : https://www.facebook.com/rootbchain/
+
 Email : info@rootblockchain.io
+
 Join Teligram : https://t.me/root_blockchain
 
 Proofs:
